@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyPet</string>
+    <string name="title_apresentation"><font color='#00BBF9'>My</font> <font color='#FEE440'>Pet</font></string>
+    <string name="title_apresentation_1">Take care of your <br></br> <font color='#00BBF9'>pet</font> here</string>
+    <string name="title_apresentation_2">Get <font color='#00BBF9'>notified</font> if your <br></br> pet needs <font color='#00BBF9'>you</font> </string>
+    <string name="title_apresentation_3"> Control <font color='#00BBF9'>vaccinations</font> and appointments </string>
+    <string name="title_sign">Have an <font color='#00BBF9'>acco</font>unt?</string>
+    <string name="title_sign_name">Add <font color='#00BBF9'>New</font> Pet</string>
+</resources>
