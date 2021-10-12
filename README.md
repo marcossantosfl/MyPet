@@ -1,3 +1,3 @@
 # MyPet
 
-![Screenshot](apresentation.jpg)
+![Screenshot](apresentation_1.jpg)
