@@ -8,6 +8,8 @@ Using volley library as http client.
 
 The back end is not posted, you must provide by yourself or update the application itself.
 
+The application has been discontinued its development since this post.
+
 ![Screenshot](apresentation_1.jpg)
 ![Screenshot](apresentation_2.jpg)
 ![Screenshot](apresentation_3.jpg)
